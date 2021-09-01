@@ -1,0 +1,12 @@
+dec	octal	  hex
+10	10	  10
+
+10	8	  16
+
+
+
+
+
+input.in
+hex || oct || dec
+
